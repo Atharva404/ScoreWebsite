@@ -5,10 +5,6 @@
     scroll-behavior: smooth;
 }
 
-body {
-    
-}
-
 #nav-bar {
     position: sticky;
     top: 0;
@@ -160,7 +156,7 @@ body {
 }
 
 #social-media {
-    background: #f8f9fa;
+    background: #fff;
     padding: 100px 0;
 }
 #social-media p {
@@ -177,7 +173,6 @@ body {
 
 #footer {
     background-image: linear-gradient(to right, #EFC1FE, #84eeea, #94f3b8); 
-    color: #fff;
 }
 .footer-img {
     transform: rotate(180deg);
