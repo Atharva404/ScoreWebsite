@@ -51,65 +51,7 @@
     font-size: 80px;
     font-weight:800;
     margin-top: 100px;
-    -webkit-animation: colorchange 20s infinite alternate;
 }
-
-
-@-webkit-keyframes colorchange {
-    0% {
-      
-      color: #1a1b41;
-    }
-    
-    10% {
-      
-      color: #6290c3;
-    }
-    
-    20% {
-      
-      color: #18ff6d;
-    }
-    
-    30% {
-      
-      color: #f1ffe7;
-    }
-    
-    40% {
-      
-      color: #f86624;
-    }
-    
-    50% {
-      
-      color: #e86a92;
-    }
-    
-    60% {
-      
-      color: #e0fbfc;
-    }
-    
-    70% {
-      
-      color: #e49273;
-    }
-    80% {
-   
-      color: #68edc6;
-    }
-    
-    90% {
-   
-      color: #ea3456;
-    }
-    
-    100% {
-      
-      color: #662e9b;
-    }
-  }
 .github-btn {
     width: 45px;
     margin: 20px;
