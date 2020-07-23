@@ -105,12 +105,14 @@
 }
 #fix2 {
     margin-left: 100px;
+    margin-top: 48px;
     width: 200px;
     height: 400px;
 }
 #fix3 {
     margin-left: 30px;
     width: 200px;
+    margin-top: 48px;
     height: 400px;
 }
 #features, #Phone {
