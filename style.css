@@ -30,7 +30,8 @@
     text-align: left;
 }
 .navbar-nav li a:hover {
-    text-decoration: underline;
+    color: #393e41 !important;
+
     padding: 10px;
 }
 .fa-bars {
@@ -61,8 +62,8 @@
     text-decoration: none;
 }
 #banner a:hover {
-    color: #000;
     text-decoration: underline;
+    color: #000;
 }
 .bottom-img {
     width: 100%;
@@ -136,7 +137,7 @@
     margin-left: 10px;
 }
 #fix {
-    width: 400px;
+    width: 600px;
     height: 400px;
     margin-left: 200px;
 }
